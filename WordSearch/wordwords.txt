@@ -1,0 +1,15 @@
+
+
+Select random position in table
+ From random position check horizontal space, through length of the word if empty place there
+  if not empty, check vertical
+  if not, check diagonal --> i, j
+  Try placing each word 100 times if fail stop program
+  
+ print out table --> solution
+ 
+ Loop iterate through table fill empty spaces with random char
+ 
+ Print --> word search
+  
+ 
